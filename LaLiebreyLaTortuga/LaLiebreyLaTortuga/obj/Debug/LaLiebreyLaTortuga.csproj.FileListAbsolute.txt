@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\LaLiebreyLaTortuga\LaLiebreyLaTortuga\bin\Debug\LaLiebreyLaTortuga.exe.config
+C:\Users\Admin\source\repos\LaLiebreyLaTortuga\LaLiebreyLaTortuga\bin\Debug\LaLiebreyLaTortuga.exe
+C:\Users\Admin\source\repos\LaLiebreyLaTortuga\LaLiebreyLaTortuga\bin\Debug\LaLiebreyLaTortuga.pdb
+C:\Users\Admin\source\repos\LaLiebreyLaTortuga\LaLiebreyLaTortuga\obj\Debug\LaLiebreyLaTortuga.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\LaLiebreyLaTortuga\LaLiebreyLaTortuga\obj\Debug\LaLiebreyLaTortuga.Form1.resources
+C:\Users\Admin\source\repos\LaLiebreyLaTortuga\LaLiebreyLaTortuga\obj\Debug\LaLiebreyLaTortuga.Properties.Resources.resources
+C:\Users\Admin\source\repos\LaLiebreyLaTortuga\LaLiebreyLaTortuga\obj\Debug\LaLiebreyLaTortuga.csproj.GenerateResource.Cache
+C:\Users\Admin\source\repos\LaLiebreyLaTortuga\LaLiebreyLaTortuga\obj\Debug\LaLiebreyLaTortuga.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LaLiebreyLaTortuga\LaLiebreyLaTortuga\obj\Debug\LaLiebreyLaTortuga.exe
+C:\Users\Admin\source\repos\LaLiebreyLaTortuga\LaLiebreyLaTortuga\obj\Debug\LaLiebreyLaTortuga.pdb
